@@ -15,7 +15,7 @@ Analyze customer revenue patterns and evaluate the impact of repeat vs non-repea
 - Average customer rating is 3.0 → indicates scope for improvement
 
 ## Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ## Project Structure
 - data → raw dataset
