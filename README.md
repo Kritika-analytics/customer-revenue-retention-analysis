@@ -63,3 +63,22 @@ This analysis tests that assumption by examining:
 ---
 
 ## Project Structure
+- data → raw dataset
+- sql → SQL queries
+- powerbi → dashboard file
+- images → dashboard preview
+---
+
+## How to Use
+1. Open SQL file to review data transformations  
+2. Load dataset into Power BI  
+3. Open `.pbix` file to explore dashboard  
+
+---
+
+## Conclusion
+This analysis highlights that **revenue stability is not solely driven by repeat customers**, challenging a common business assumption.
+
+It also identifies **customer experience as a key improvement area**, which could directly influence long-term retention.
+
+---
